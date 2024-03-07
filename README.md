@@ -6,10 +6,10 @@ This project aims to analyze the sales data of a superstore to gain insights int
 The dataset used in this analysis contains historical sales data from the Super Store, including information such as order date, customer details, product categories, sales figures, and geographical locations. It provides a comprehensive view of the store's sales performance over time and across different dimensions.
 
 ## Analysis Goals:
-Sales Trends: Explore the overall sales trends over time to identify seasonal patterns, trends, and fluctuations in sales.
-Customer Segmentation: Analyze customer segments based on sales behavior, demographics, and purchasing patterns to tailor marketing strategies and improve customer engagement.
-Product Performance: Assess the performance of different product categories and sub-categories to identify top-selling products and opportunities for product expansion or optimization.
-Geographical Analysis: Examine sales distribution across different regions and cities to understand regional sales trends and target areas for growth.
+1. Sales Trends: Explore the overall sales trends over time to identify seasonal patterns, trends, and fluctuations in sales.
+2. Customer Segmentation: Analyze customer segments based on sales behavior, demographics, and purchasing patterns to tailor marketing strategies and improve customer engagement.
+3. Product Performance: Assess the performance of different product categories and sub-categories to identify top-selling products and opportunities for product expansion or optimization.
+4. Geographical Analysis: Examine sales distribution across different regions and cities to understand regional sales trends and target areas for growth.
 
 ## Tools and Techniques:
 Python programming language for data manipulation, analysis, and visualization.
