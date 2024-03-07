@@ -12,14 +12,14 @@ The dataset used in this analysis contains historical sales data from the Super 
 4. Geographical Analysis: Examine sales distribution across different regions and cities to understand regional sales trends and target areas for growth.
 
 ## Tools and Techniques:
-Python programming language for data manipulation, analysis, and visualization.
-Pandas and NumPy libraries for data handling and numerical computation.
-Matplotlib and Seaborn for data visualization and plotting.
-Stats models for time series analysis, including seasonal decomposition and forecasting.
+1. Python programming language for data manipulation, analysis, and visualization.
+2. Pandas and NumPy libraries for data handling and numerical computation.
+3. Matplotlib and Seaborn for data visualization and plotting.
+4 . Stats models for time series analysis, including seasonal decomposition and forecasting.
 
 ## How to Use:
-Data Loading: Load the provided sales dataset into your preferred Python environment (e.g., Jupyter Notebook, Google Colab).
-Exploratory Data Analysis: Explore the dataset using descriptive statistics, visualizations, and summary insights to understand the data's structure and characteristics.
-Analysis and Insights: Conduct in-depth analysis of sales trends, customer segments, product performance, and geographical distribution to uncover actionable insights and opportunities.
-Visualization: Visualize the findings using various charts, plots, and graphs to communicate key insights effectively.
-Recommendations: Based on the analysis, formulate actionable recommendations and strategies to optimize business operations, improve sales performance, and drive growth for the Super Store.
+1. Data Loading: Load the provided sales dataset into your preferred Python environment (e.g., Jupyter Notebook, Google Colab).
+2. Exploratory Data Analysis: Explore the dataset using descriptive statistics, visualizations, and summary insights to understand the data's structure and characteristics.
+3. Analysis and Insights: Conduct in-depth analysis of sales trends, customer segments, product performance, and geographical distribution to uncover actionable insights and opportunities.
+4. Visualization: Visualize the findings using various charts, plots, and graphs to communicate key insights effectively.
+5. Recommendations: Based on the analysis, formulate actionable recommendations and strategies to optimize business operations, improve sales performance, and drive growth for the Super Store.
